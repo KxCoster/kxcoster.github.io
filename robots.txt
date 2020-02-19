@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://github.com/sitemap.xml
+Sitemap: http://kxcoster.github.io/sitemap.xml

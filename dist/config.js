@@ -2,6 +2,6 @@
 var RM = window.RM = window.RM || {};
 
 window.RM.config = {
-  root: "/kabk/go-theses-20-kiki-coster/",
+  root: "/",
   pushState: true
 }
